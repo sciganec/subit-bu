@@ -91,6 +91,6 @@ s' = 101011 XOR 100000
 - `UX.md` — interface description  
 
 ## License
-MIT License (recommended for open, minimal systems).
+MIT License
 
 ---
